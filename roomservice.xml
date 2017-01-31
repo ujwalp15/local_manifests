@@ -11,4 +11,5 @@
   <project name="android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="cm" revision="cm-14.1" />
   <project name="android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="cm" revision="cm-14.1" />
   <project name="android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="cm" revision="cm-14.1" />
+  <project name="ujwalp15/local_manifests" path=".repo/local_manifests" remote="gh" revision="oct-14.1" />
 </manifest>
